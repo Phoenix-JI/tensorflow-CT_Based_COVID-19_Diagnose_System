@@ -1,0 +1,7 @@
+You can see the demo result in the DiagnoseSystem.ipynb
+
+The dataset is in the shared link:
+
+https://drive.google.com/drive/folders/1MM5IiiVvvtR-P6CBV-3_2nhCV8gZ7Gsc?usp=sharing
+
+
